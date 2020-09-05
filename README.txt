@@ -1,0 +1,1 @@
+Collection of design patterns created throughout fall 2020.
