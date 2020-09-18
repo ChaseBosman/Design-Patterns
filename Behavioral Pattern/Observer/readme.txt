@@ -1,1 +1,2 @@
-Project represents the observer design pattern. An observer (Advanced monitor and Simple Monitor) are passed in the subject (baby). As a result, everytime baby is updated, monitors are able to update when baby updates.
+Project represents the observer design pattern. 
+An observer (Advanced monitor and Simple Monitor) are passed in the subject (baby). As a result, everytime baby is updated, monitors are able to update when baby updates.
