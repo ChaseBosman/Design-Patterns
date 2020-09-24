@@ -7,3 +7,6 @@ Behavioral Patterns:
 
 Structural Patterns:
 	-Decorator
+
+Creational Patterns:
+	-Factory
