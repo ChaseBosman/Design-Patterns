@@ -1,0 +1,1 @@
+Abstract factory method. Odd example to have to use with it but it works as it should.
