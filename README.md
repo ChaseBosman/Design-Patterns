@@ -4,11 +4,11 @@
 
 ### **Patterns**:
 #### **Behavioral Patterns**:
-#### 	* Observer
-#### 	* Strategy
+* Observer
+* Strategy
 
 #### **Structural Patterns**:
-#### 	* Decorator
+* Decorator
 
 #### **Creational Patterns**:
-#### 	* Factory
+* Factory
