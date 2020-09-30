@@ -3,12 +3,12 @@
 #### Info about each pattern can be found within each pattern's related readme.
 
 ### **Patterns**:
-#### **Behavioral Patterns**:
+#### **Behavioral:**
 * Observer
 * Strategy
 
-#### **Structural Patterns**:
+#### **Structural:**
 * Decorator
 
-#### **Creational Patterns**:
+#### **Creational:**
 * Factory
