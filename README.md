@@ -12,3 +12,4 @@
 
 #### **Creational:**
 * Factory
+* Abstracted Factory
