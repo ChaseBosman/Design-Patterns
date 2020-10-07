@@ -13,3 +13,4 @@
 #### **Creational:**
 * Factory
 * Abstracted Factory
+* Singleton
