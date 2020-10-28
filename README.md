@@ -6,6 +6,7 @@
 #### **Behavioral:**
 * Observer
 * Strategy
+* Command
 
 #### **Structural:**
 * Decorator
