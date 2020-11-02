@@ -7,7 +7,7 @@ public class Customer {
 		this.waitress = waitress;
 	}
 	
-	public void placeOrder(OrderSlip order) {
+	public void createOrder(OrderSlip order) {
 		this.order = order;
 		waitress.takeOrder(this.order);
 	}

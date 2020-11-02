@@ -12,4 +12,8 @@ public class ShortOrderCook{
 		System.out.println("Started making a shake!");
 	}
 	
+	public void makeSandwich() {
+		System.out.println("Started making a sandwich!");
+	}
+	
 }

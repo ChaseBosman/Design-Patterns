@@ -4,11 +4,13 @@ public class Driver {
 	public static void main(String[] args) {
 		ShortOrderCook cook = new ShortOrderCook();
 		Waitress waitress = new Waitress();
-		Customer customer = new Customer(waitress);
+		Customer customer1 = new Customer(waitress);
 		Burger burger1 = new Burger(cook);
 		Shake shake1 = new Shake(cook);
-		customer.placeOrder(burger1);
-		customer.placeOrder(shake1);
+		Sandwich sandwich1 = new Sandwich(cook);
+		customer1.createOrder(burger1);
+		customer1.createOrder(shake1);
+		customer1.createOrder(sandwich1);
 	}
 
 }
