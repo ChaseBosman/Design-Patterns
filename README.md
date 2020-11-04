@@ -10,6 +10,7 @@
 
 #### **Structural:**
 * Decorator
+* Adapter
 
 #### **Creational:**
 * Factory
