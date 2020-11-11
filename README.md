@@ -11,6 +11,7 @@
 #### **Structural:**
 * Decorator
 * Adapter
+* Composite
 
 #### **Creational:**
 * Factory
