@@ -1,0 +1,1 @@
+Proxy Pattern - Utilizes Java's Proxy and InocationHandler implementations

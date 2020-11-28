@@ -7,11 +7,13 @@
 * Observer
 * Strategy
 * Command
+* State
 
 #### **Structural:**
 * Decorator
 * Adapter
 * Composite
+* Proxy
 
 #### **Creational:**
 * Factory
