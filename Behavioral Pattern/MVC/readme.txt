@@ -1,0 +1,1 @@
+MVC Design Pattern. Although MVC is more of an architectural pattern, it can still be said to define the bahavior
